@@ -1,0 +1,9 @@
+urllib3==1.26.2
+flask==1.1.2
+werkzeug==1.0.1
+pillow==8.0.1
+boto3==1.16.28
+botocore==1.19.28
+jinja2==2.11.2
+markupsafe==1.1.1
+itsdangerous==1.1.0
